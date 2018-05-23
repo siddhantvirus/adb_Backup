@@ -1,6 +1,6 @@
 # adb_Backup
 This small script makes up a backup of your entire SD_Card on your Windows Machine.<br>
-Make Sure <b>USB debugging</b> is enabled and you have authorised your Windows machine for <b>USB Debugging</b>
+Make Sure <b>USB Debugging</b> is enabled and you have authorised your Windows machine for <b>USB Debugging</b>
 
 <h3>Steps To Enable USB Debugging</h3>
 <ol>
