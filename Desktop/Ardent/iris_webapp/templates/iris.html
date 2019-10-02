@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Iris-Predict</title> 
+	<style>
+		body
+		{
+			background-color: #f9f9f9;
+			padding: 0;
+		}
+		#btn
+		{
+			background-color:#fbfbfb;
+			border: 1px solid #d4d4d4;
+			border-radius: 25px;
+			height: 35px;
+			width: 150px;
+			font-size: 1.2em;
+			padding: 5px;
+			transition: all 0.3s;
+		}
+
+		#btn:hover
+		{
+			background-color:#545454;
+			color:#ffffff;
+			transform: scale(1.1);
+			cursor: pointer;
+		}
+
+		#bigcunt
+		{
+			display:flex;
+			flex-direction: row;
+
+			width:60%;
+			border:1px solid red;
+
+			margin: auto;
+			min-width: 530px;
+
+
+
+		}
+
+	</style>
+</head>
+
+<body>
+	<h1 style="text-align: center">Iris Predictor</h1>
+	<div id="bigcunt">
+
+		<div style="margin:30px"><form action="/predict" method="post">
+
+		  <p><label for='sepal_length'>Sepal Length (cm)</label><br><input type="text" name="sepal_length" value="0.0"></p>
+		  
+		  <p><label for='sepal_width'>Sepal Width(cm)</label><br><input type="text" name="sepal_width" value="0.0"></p>
+
+		  <p><label for='petal_length'>Petal Length (cm)</label><br><input type="text" name="petal_length" value="0.0"></p>
+		  
+		  <p><label for='petal_width'>Petal Width (cm)</label><br><input type="text" name="petal_width" value="0.0"></p>
+		  <p></p>
+		  <p><input type="submit" id = "btn" value="Predict Iris"></p>
+		</form>
+		</div>
+
+		<div style="margin:30px;">
+			<img src="/static/iris-sample.jpg" style="width:auto; height:250px; position: relative; " alt="not-found">
+		</div>
+
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+Iris virginica, with the common name Virginia iris, is a perennial species of flowering plant, native to eastern North America.
+
+It is common along the coastal plain from Florida to Georgia in the Southeastern United States.
+
+It is one of the three Iris species in the Iris flower data set outlined by Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems" as an example of linear discriminant analysis.

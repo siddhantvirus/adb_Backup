@@ -1,0 +1,5 @@
+Iris versicolor is also commonly known as the blue flag, harlequin blueflag, larger blue flag, northern blue flag,[1] and poison flag, plus other variations of these names,[2][3] and in Britain and Ireland as purple iris.[4]
+
+It is a species of Iris native to North America, in the Eastern United States and Eastern Canada. It is common in sedge meadows, marshes, and along streambanks and shores. The specific epithet versicolor means "variously coloured".[5]
+
+It is one of the three Iris species in the Iris flower data set outlined by Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems" as an example of linear discriminant analysis.
